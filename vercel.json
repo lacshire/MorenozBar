@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/productos.js": { "includeFiles": "*.json" }
+  }
+}
